@@ -1,4 +1,4 @@
-class Ships() {
+class Ships {
   constructor() {
     this.ships = [];
   }
