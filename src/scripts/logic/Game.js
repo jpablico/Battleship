@@ -1,5 +1,5 @@
-import Player from './Player';
-import Ship from './Ship';
+import Player from './Player.js';
+import Ship from './Ship.js';
 
 class Game {
   constructor() {

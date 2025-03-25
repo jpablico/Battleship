@@ -1,7 +1,7 @@
 import React, { useState, useEffect } from 'react';
-import Gameboard from './Gameboard';
+import Gameboard from './Gameboard.js';
 import Announcement from './Announcement.js';
-import Game from '../logic/Game';
+import Game from '../logic/Game.js';
 
 const App = () => {
   const [game, setGame] = useState(null);
